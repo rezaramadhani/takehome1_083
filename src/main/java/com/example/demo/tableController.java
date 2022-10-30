@@ -5,10 +5,13 @@
  */
 package com.example.demo;
 
+import org.springframework.stereotype.Controller;
+
 /**
  *
  * @author Reza Ramadhani
  */
+@Controller
 public class tableController {
     
 }
